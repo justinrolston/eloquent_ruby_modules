@@ -56,7 +56,7 @@ end
 #3 Access Constains in the module
 ##################################################
 
-puts Rendering::DEFAULT_PAPER_SIZE.width
+Rendering::DEFAULT_PAPER_SIZE.width
 
 #or
 
